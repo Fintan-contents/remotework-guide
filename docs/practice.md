@@ -97,10 +97,8 @@ Knowledgeはマークダウンで書いて投稿できる情報共有ツール�
 我々は開発環境構築ガイドやリリース手順といった資料や、打ち合わせの議事録をKnowledgeへ投稿しています。
 またチャット上で議論をするときも、概要や議論したいポイントをKnowledgeへ投稿しておいて、それを見ながら議論を進めることもあります。
 
-<figure>
 ![](./assets/knowledge.png)<br>
-<figcaption>Knowledgeに書いたドキュメントの例</figcaption>
-</figure>
+Knowledgeに書いたドキュメントの例
 
 #### コードレビュー
 
@@ -112,10 +110,8 @@ WebのUIがあるので、IntelliJ IDEAを使っていなくてもUpsourceは使
 
 大変便利に使えて、自信をもってお勧めできるツールです。
 
-<figure>
 ![](./assets/upsource.png)<br>
-<figcaption>Upsourceでコードレビューをしている様子</figcaption>
-</figure>
+Upsourceでコードレビューをしている様子
 
 #### タスク管理
 
@@ -125,17 +121,13 @@ WebのUIがあるので、IntelliJ IDEAを使っていなくてもUpsourceは使
 
 またタスクを細かく分割して、悩まずに消化できるレベルまで落とし込むことで、自主的にタスクを取って作業を進められます。
 
-<figure>
 ![](./assets/redmine-kanban.png)<br>
-<figcaption>カンバンの例</figcaption>
-</figure>
+カンバンの例
 
 <br>
 
-<figure>
 ![](./assets/redmine-burndown.png)<br>
-<figcaption>バーンダウンチャートも見られる</figcaption>
-</figure>
+バーンダウンチャートも見られる
 
 ## 「3. 情報共有のために記録する」に対するプラクティス
 
